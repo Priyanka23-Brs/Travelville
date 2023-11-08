@@ -3,4 +3,4 @@
 ###### Purpose:
     To Replicate Travelvilla
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/design/spacex-shop-clone).
+#### Dear Students, Check out the live app [here](https://priyanka23-brs.github.io/Travelville/)https://priyanka23-brs.github.io/Travelville/).
